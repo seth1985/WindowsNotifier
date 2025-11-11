@@ -1,0 +1,35 @@
+# Python / PyInstaller
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.spec
+.Python
+.venv/
+env/
+
+# Build artifacts
+build/
+dist/
+pip-wheel-metadata/
+tests/
+
+# PyInstaller assets
+*.manifest
+*.log
+
+# IDE / tooling
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / temp
+*.log
+*.tmp
+
+# User-specific configs
+.env
+
+# Entire packaging workspace not needed for GitHub per request
+packaging/
