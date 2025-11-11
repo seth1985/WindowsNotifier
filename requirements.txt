@@ -1,0 +1,9 @@
+pyside6
+PySide6-Addons
+PySide6-Essentials
+PySide6-WebEngine
+pyinstaller
+pywin32
+loguru
+watchdog
+pytest
